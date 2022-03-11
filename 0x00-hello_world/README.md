@@ -1,1 +1,1 @@
-compiles a C file and creates an executable named cisfun
+prints exactly with proper grammar, but the outcome is a piece of art,
