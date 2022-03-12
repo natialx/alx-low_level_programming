@@ -1,24 +1,23 @@
 #include <stdio.h>
-
 /**
-* main -Prints alphabets
+*main - Entry point
 *
-* Return: Always(Success)
+*Return: Always 0 (Success)
 */
-
 int main(void)
 {
-char n;
+char alphabet;
 
-for (n = 'a'; n <= 'z'; n++)
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-	putchar(n);
+putchar(alphabet);
 }
 
-for (n = 'A'; n <= 'Z'; n++)
+for (alphabet = 'A'; alphabet <= 'Z'; alphabet++)
 {
-	putchar(n);
+putchar(alphabet);
 }
-putchar('\n');	
+
+putchar('\n');
 return (0);
 }
