@@ -1,1 +1,1 @@
-Task 3
+prints all possible combinations of single-digit numbers
