@@ -1,1 +1,1 @@
-program that prints _putchar
+Print _putchar
