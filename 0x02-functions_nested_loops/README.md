@@ -1,1 +1,1 @@
-prints the 9 times table, starting with 0.
+prints all natural numbers from n to 98
