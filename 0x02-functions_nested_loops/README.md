@@ -1,1 +1,1 @@
-Add aiphabet 10 times
+checks for lowercase character
