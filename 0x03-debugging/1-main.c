@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include <stdio.h>
 /**
 * main - comment out couse of infinite loop
 * Return: 0
