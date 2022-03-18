@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isupper - check if upper or not
  * @c: print int
@@ -17,4 +16,5 @@
  {
  return (0);
  }
+ 
  }
