@@ -1,16 +1,16 @@
 #include "main.h"
 /**
- * _isdigit - print nums
- * Return: Always 0
+ * print_numbers - entry point
+ * Return: Always void
  */
 
 void print_numbers(void)
 {
-int i;
+int num;
 
-for (i = '0'; i < '10'; i++)
+for (num = '0'; num < '10'; num++)
 {
-_putchar (i);
+_putchar (num);
 }
 _putchar ('\n');
 }
