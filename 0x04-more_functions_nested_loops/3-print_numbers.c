@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isdigit - print nums 0 to 9
+ * _isdigit - print nums
  * Return: Always 0
  */
 
